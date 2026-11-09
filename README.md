@@ -1,0 +1,1 @@
+A QR code generator with the help of python and streamlit for frontend.
